@@ -1,7 +1,7 @@
 /*
 Answer by Fabio Pedruci
 
-Exercise 2.9
+Exercise 2.09
 Write a single C++ statement or line that accomplishes each of the following:
 a) Print the message "Enter two numbers".
 b) Assign the product of variables b and c to variable a.
