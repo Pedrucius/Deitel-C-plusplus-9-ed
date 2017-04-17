@@ -5,7 +5,7 @@ Exercise 2.16
 Write a program that asks the user to enter two numbers, obtains the two
 numbers from the user and prints the sum, product, difference, and quotient of the two numbers.
 
-In this exercise we won't check any invalid or valid input.
+In this exercise we won't check any invalid or valid input. 
 */
 
 #include <iostream>
