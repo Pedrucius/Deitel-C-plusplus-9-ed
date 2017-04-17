@@ -8,6 +8,16 @@ and prints the sum, average, product, smallest and largest of these numbers.
 
 #include <iostream>
 
+//We can define a MIN comparison and a MAX comparison - using ternary operator, but this is not the content of this chapter.
+//Use like this:
+//#define MIN (a,b) ((a < b) ? a : b)
+//#define MAX (a,b) ((a < b) ? b : a)
+
+//In the smallest you can use MIN(num1, MIN(num2, num3));
+//In the largest you can use MAX(num1, MAX(num2, num3));
+
+//This way, you don't have to compare the numbers at each input.
+
 using namespace std;
 
 int main()
