@@ -33,7 +33,7 @@ int main()
     cout << "* * * * * * * *" << endl;
     cout << " * * * * * * * *\n" << endl;
 
-    cout << A << B << A << B << A << B << A << B; //single statement, using 2 constants
+    cout << A << B << A << B << A << B << A << B; //single statement, using 2 constants 
 
     return 0;
 }
